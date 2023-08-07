@@ -4,5 +4,7 @@ Con conocimientos en metodologías ágiles y nociones de prototipado con Figma, 
 
 Mi background en arquitectura me capacita para colaborar en un ambiente de trabajo orientado al diseño y a la resolución de problemas. Me motiva aportar valor a un equipo de desarrollo innovador, aprender sobre UX e iniciar mi carrera en tecnología.
 
+Actualmente estoy involucrado en el desarrollo de una aplicación móvil que ofrece la conveniencia de comprar bebidas sin esperas en cualquier discoteca o evento al que asistas. En este proyecto, desempeño un papel clave en el diseño de la interfaz de usuario, además de encargarme de implementar el front-end utilizando React Native y el ecosistema Expo. A través de esta experiencia, he fortalecido mi capacidad para colaborar bajo la metodología Scrum y llevar a cabo un proyecto enfocado en un Producto Mínimo Viable (MVP).
+
 infederico@gmail.com
 https://www.linkedin.com/in/ivan-federico-dev/
